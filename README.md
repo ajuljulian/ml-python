@@ -6,6 +6,7 @@
 1. supervised_logistic_regression - Logistic Regression example
 1. supervised_classifier_svm_pipeline - Support Vector Machine example
 1. supervised_decision_tree_randomized_search - Decision Tree example using randomized search to find best hyperparameters
+1. supervised_elastic_net_grid_search - Elastic Net example with Grid Search
 
 ## Unsupervised Learning
 
