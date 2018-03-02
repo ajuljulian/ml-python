@@ -19,4 +19,4 @@
 ## Basics
 
 1. basics_matplotlib - Basic Matplotlib examples
-
+1. basics_numpy - Basic numpy examples
