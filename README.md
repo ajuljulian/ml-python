@@ -15,3 +15,8 @@
 ## Reinforcement Learning
 
 1. deep_learning_mnist_keras - Classifying handwritten digits using Keras
+
+## Basics
+
+1. basics_matplotlib - Basic Matplotlib examples
+
