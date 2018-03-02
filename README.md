@@ -2,9 +2,9 @@
 
 ## Supervised Learning
 
-supervised_linear_regression - Linear Regression example
-supervised_logistic_regression - Logistic Regression example
+1. supervised_linear_regression - Linear Regression example
+1. supervised_logistic_regression - Logistic Regression example
 
 ## Unsupervised Learning
 
-unsupervised_k_means - K-Means example
+1. unsupervised_k_means - K-Means example
