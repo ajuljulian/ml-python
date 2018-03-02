@@ -21,3 +21,7 @@
 1. basics_matplotlib - Basic Matplotlib examples
 1. basics_numpy - Basic numpy examples
 1. basics_pandas - Basic pandas examples
+
+## Snippets
+
+1. snippets_python - Python code snippets
